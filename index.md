@@ -3,3 +3,15 @@ Richie Christiansen Senlia (CSUI 2020 / Chronos)
 
 ## Table
 |[HOME]|[LINKS]({{ site.baseurl }}/LINKS/)|
+
+## Source Code
+
+```
+#include <stdio.h>
+
+int main(void) {
+    prinf("As.w.w.\n");
+}
+
+```
+
