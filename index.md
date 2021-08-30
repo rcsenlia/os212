@@ -2,16 +2,5 @@
 Richie Christiansen Senlia (CSUI 2020 / Chronos)
 
 ## Table
-|[HOME]|[LINKS]({{ site.baseurl }}/LINKS/)|
-
-## Source Code
-
-```
-#include <stdio.h>
-
-int main(void) {
-    prinf("As.w.w.\n");
-}
-
-```
+|[HOME]({{ site.baseurl }})|[LISTINGS]|[LINKS]({{ site.baseurl }}/LINKS/)|[TIPS]|[KEY]|[LOG]|[GITHUB](https://github.com/rcsenlia/os212/)|
 
