@@ -2,4 +2,4 @@
 Richie Christiansen Senlia (CSUI 2020 / Chronos)
 
 ## Table
-|[HOME]|[LINKS]({{ site.baseurl }}/)|
+|[HOME]|[LINKS]({{ site.baseurl }}/LINKS/)|
