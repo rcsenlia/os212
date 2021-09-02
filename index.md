@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "default"
 ---
 
 # Operating Systems 2021-1(OS212)
