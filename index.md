@@ -1,8 +1,6 @@
-.header {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
-}
+---
+layout:"default"
+---
 # Operating Systems 2021-1(OS212)
 Richie Christiansen Senlia (CSUI 2020 / Chronos)
 
