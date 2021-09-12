@@ -9,3 +9,9 @@ ZCZC W00  60 L04 trying jekyl and markdown
 ZCZC W00  60 L10 reading material and video
 ZCZC W00  30 L06 learning jekyl
 ZCZC W00  45 L10 reviewing POK
+ZCZC W01  90 L02 Zoom mingguan
+ZCZC W01  20 L04 Adding links and log
+ZCZC W01  150 L11 Installing virtual box and settings
+ZCZC W01  20 L11 Trying command line
+ZCZC W01  30 L24 Trying AWK, Bash
+ZCZC W01  90 L06 Reading assignment
