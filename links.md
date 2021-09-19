@@ -23,3 +23,15 @@ Latex sangat membantu dalam menulis persamaan matematis. markdown mensupport lat
 [three](https://www.dedoimedo.com/computers/ultimate-linux-guide-for-windows-users.html)
 
 Perkenalan awal yang bagus untuk belajar linux bagi pengguna windows.
+
+[four](https://www.n-able.com/blog/sha-256-encryption)
+
+Link ini berisi tentang fungsi SHA256 secara general
+
+[Five](https://www.baeldung.com/linux/sha-256-from-command-line)
+
+penggunaan SHA256 pada linux
+
+[six](https://www.atnyla.com/tutorial/introduction-to-data-types-in-c/1/174)
+
+basic to knowledge about C, including data types, function and syntax
