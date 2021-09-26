@@ -35,3 +35,7 @@ penggunaan SHA256 pada linux
 [six](https://www.atnyla.com/tutorial/introduction-to-data-types-in-c/1/174)
 
 basic to knowledge about C, including data types, function and syntax
+
+[seven] (https://www.javatpoint.com/linux-regular-expression)
+
+cheatsheat about Regex and linux

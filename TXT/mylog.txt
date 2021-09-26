@@ -23,3 +23,9 @@ ZCZC W02 120 L13 Watching cyber security video
 ZCZC W02  30 L12 C demos
 ZCZC W02  90 L06 Reading reference and material
 ZCZC W02  20 L21 experimenting SHA256 and commandline
+ZCZC W03  90 L02 Zoom meeting
+ZCZC W03  45 L09 update links, log, and rank
+ZCZC W03  30 L15 creating virtual disk
+ZCZC W03  45 L11 reading assignment
+ZCZC W03  15 L12 Trying demos
+ZCZC W03  15 L17 reviewing links
