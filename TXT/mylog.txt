@@ -29,3 +29,9 @@ ZCZC W03  30 L15 creating virtual disk
 ZCZC W03  45 L11 reading assignment
 ZCZC W03  15 L12 Trying demos
 ZCZC W03  15 L17 reviewing links
+ZCZC W04  90 L02 Zoom Meeting
+ZCZC W04  30 L09 updating links, log and rank
+ZCZC W04  90 L12 C demos
+ZCZC W04  45 L15 doing assignment
+ZCZC W04  45 L13 trying midterm
+ZCZC W04  90 L11 reading assignment

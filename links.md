@@ -39,3 +39,7 @@ basic to knowledge about C, including data types, function and syntax
 [seven] (https://www.javatpoint.com/linux-regular-expression)
 
 cheatsheat about Regex and linux
+
+[eight] (https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)
+
+easy to understand C pointer explanation
