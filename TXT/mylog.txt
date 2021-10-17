@@ -41,3 +41,10 @@ ZCZC W05  45 L14 how low memory can go
 ZCZC W05  30 L13 mengerjakan midterm
 ZCZC W05  40 L12 trying demos
 ZCZC W05  90 L11 reading assignment OSC10
+ZCZC W06  90 L02 Zoom meeting
+ZCZC W06  45 L06 Asyncronus assingment
+ZCZC W06  90 L11 reading assignment
+ZCZC W06  60 L12 fork demos
+ZCZC W06  20 L17 reviewing links
+ZCZC W06  30 L09 doing assignments
+ZCZC W06  45 L11 reading assignments
