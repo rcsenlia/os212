@@ -48,3 +48,9 @@ ZCZC W06  60 L12 fork demos
 ZCZC W06  20 L17 reviewing links
 ZCZC W06  30 L09 doing assignments
 ZCZC W06  45 L11 reading assignments
+ZCZC W07  45 L12 understanding demos
+ZCZC W07  120 L02 Weekly zoom meeting
+ZCZC W07  30 L14 synchronization and shared memory assignment
+ZCZC W07  20 L06 video references
+ZCZC W07  45 L09 updating TXT files and links
+ZCZC W07  60 L11 reading assignment

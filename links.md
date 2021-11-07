@@ -43,3 +43,11 @@ cheatsheat about Regex and linux
 [eight] (https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)
 
 easy to understand C pointer explanation
+
+[nine] (https://www.guru99.com/process-synchronization.html)
+
+basic understanding or introduction to synchronization
+
+[ten] (https://notesformsc.org/shared-memory-system/)
+
+a great way to familiarize shared memory
