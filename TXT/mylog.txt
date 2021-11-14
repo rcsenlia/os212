@@ -54,3 +54,9 @@ ZCZC W07  30 L14 synchronization and shared memory assignment
 ZCZC W07  20 L06 video references
 ZCZC W07  45 L09 updating TXT files and links
 ZCZC W07  60 L11 reading assignment
+ZCZC W08  90 L02 Weekly zoom meeting
+ZCZC W08  60 L06 links to watch
+ZCZC W08  40 L14 Linux from scratch 1-4
+ZCZC W08  240 L15 compiling linux
+ZCZC W08  45 L10 updating txt files and links
+ZCZC W08  45 L11 reading assignment

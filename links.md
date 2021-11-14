@@ -51,3 +51,11 @@ basic understanding or introduction to synchronization
 [ten] (https://notesformsc.org/shared-memory-system/)
 
 a great way to familiarize shared memory
+
+[eleven] (https://www.studytonight.com/operating-system/process-scheduling)
+
+a basic understanding of scheduling in operating system
+
+[twelve] (https://data-flair.training/blogs/process-scheduling-in-operating-system/)
+
+another guide to scheduling
